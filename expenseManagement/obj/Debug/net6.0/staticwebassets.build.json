@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+etP278sDWTScNRGMAQIaRrnF98gFadAdMYurykmCrU=",
+  "Source": "expenseManagement",
+  "BasePath": "_content/expenseManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

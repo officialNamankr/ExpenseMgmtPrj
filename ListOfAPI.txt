@@ -1,0 +1,23 @@
+List of APIs
+
+1. Authentication
+	
+	# Register a User
+	# Login
+	# Logout
+	# 
+	
+
+2. User API
+	
+	# Get All User
+	# Get User by Id
+	# Delete User
+
+3. Expense Keeper
+	
+	# Get Expense Keeper by Id
+	# Get All User of an Expense Keeper
+	# Remove Users From an Expense Keeper
+	# Add Users to Expense Keeper.
+4. 
